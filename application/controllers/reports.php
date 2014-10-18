@@ -702,7 +702,7 @@ class Reports_Controller extends Main_Controller {
 		$this->template->content->custom_forms->form_field_names = $form_field_names;
 
 		// Are we allowed to submit comments?
-		$this->template->content->comments_form = "";
+		/*$this->template->content->comments_form = "";
 		if (Kohana::config('settings.allow_comments'))
 		{
 			$this->template->content->comments_form = new View('reports/comments_form');
@@ -713,7 +713,7 @@ class Reports_Controller extends Main_Controller {
 			$this->template->content->comments_form->errors = $errors;
 			$this->template->content->comments_form->form_error = $form_error;
 		}
-
+*/
 		// If the Admin is Logged in - Allow for an edit link
 		$this->template->content->logged_in = $this->logged_in;
 	}
