@@ -1,4 +1,4 @@
-yeruti
+Atî - Gaviota en idioma Guarani
 =======
 
 Juntas podemos más
@@ -9,9 +9,9 @@ Plataforma colaborativa para combatir la violencia contra las mujeres con interv
 Equipo
 =======
 
-* **Team Leader:** Deisy Perez
-* **StakeHolder/Comunicator:** Carol Thiede
-* **StakeHolder/Gender:** Sandra Bosch
+* **Team Leader:** Deisy Pérez
 * **Developer Team Leader:** Rafael Palau
 * **WebDesign:** Mercedes Rebull
 * **DigitalComunication:** Ale Peralta
+* **Developer:** Demian Florentin 
+* **Developer:** Nicolás Cáceres 
