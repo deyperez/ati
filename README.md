@@ -1,5 +1,6 @@
-Atî - Gaviota en idioma Guarani
+Atî - 
 =======
+Gaviota en idioma Guarani
 
 Juntas podemos más
 
